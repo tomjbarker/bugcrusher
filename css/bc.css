@@ -1,0 +1,23 @@
+#bugInfo{
+	color:#FF0000;
+	width: 80px;
+	z-index:10;
+	position:absolute;
+	left:150px;
+	top:10px;
+}
+
+#screen{
+	z-index:0;
+	position:absolute;
+	left:2px;
+	top:10px;
+}
+
+body {
+    margin:0px 0px 20px 0px;
+    font-family:Arial;
+    font-size:0.68em;
+    color:#4c4c4c;
+    line-height:1.6em;
+}
